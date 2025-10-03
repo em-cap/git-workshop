@@ -1,1 +1,2 @@
 This is a new file with some new text.
+There is lots of git commands.
